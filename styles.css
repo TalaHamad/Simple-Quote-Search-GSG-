@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+#quote-list {
+    list-style-type: none;
+    padding: 0;
+}
+#quote-list li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffaee1;
+    border-radius: 5px;
+}
+.error {
+    color: red;
+    font-weight: bold;
+}
